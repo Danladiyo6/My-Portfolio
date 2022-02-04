@@ -1,0 +1,116 @@
+
+#body2{
+   font-size: 20px; 
+   font-family: Harrington;
+}
+
+nav{
+    background-color: cornflowerblue;
+    padding: 80px 50px;
+    font-family: Harrington;
+}
+#bignavi{
+    padding-left: 730px;
+    padding-top: 400px;
+    padding-bottom: 0px;
+    display: inline;
+}
+nav a{
+    background-color: #a6f3fa;
+    text-decoration: none;
+    padding: 15px 25px;
+    color: black;
+}
+nav a:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+h1,h2{
+    text-align: center;
+}
+#picture{
+    text-align: center;
+}
+#aboutme{
+    padding-top: 30px;
+}
+h3{
+    text-align: center;
+}
+
+
+.grand{
+    background-color: gray;
+    width: 100%;
+    border-radius: 10px;
+}
+.son{
+    text-align: right;
+    background-color:#a6f3fa ;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+ul{
+    list-style: square;
+   
+}
+
+li{
+    padding-bottom:20px ;
+   
+}
+#change{
+    text-align: center;
+}
+footer{
+    background-color: rgb(112, 157, 240);
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+footer a{
+    color: wheat;
+}
+
+
+#body3{
+    font-family: Harrington;
+}
+
+#hiredme{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 50px;
+}
+#move1{
+    padding-right: 118px;
+}
+
+#move2{
+    padding-right: 118px;
+}
+
+#move3{
+    padding-right: 60px;
+}
+#mov{
+    padding-right: 50px;
+}
+
+#forms{
+    padding-left: 270px;
+    padding-right: 260px;
+    padding-bottom: 30px;
+}
+
+#change1{
+    
+    border: 2px solid black;
+    padding-left: 10px;
+}
+#btn{
+    padding-bottom:20px;
+    text-align: center;
+}
